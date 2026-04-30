@@ -1,16 +1,14 @@
-## Hi there 👋
+## Callon Lee
 
-<!--
-**callonlee/callonlee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+3rd-year Statistics student at the University of Toronto — Statistics major,
+Computer Science and Mathematics minors.
 
-Here are some ideas to get you started:
+I work primarily in R and Python. Currently building projects in SQL and
+data visualization for finance and analytics applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Areas of focus:** applied statistics, regression modeling, survey methodology,
+electoral analytics, financial data analysis.
+
+**Languages & tools:** R, Python (pandas, NumPy), SQL, ggplot2, Git
+
+📫 callon.lee@mail.utoronto.ca
